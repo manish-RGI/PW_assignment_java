@@ -1,0 +1,9 @@
+ANS.
+1.A computer is an electronic device that manipulates information, or data. It has the ability to store, retrieve, and process data.
+2.RAM stands for read-only memory.it is volatile in nature.volatile means any data that is stores in ram is temperory and if the power supply is cut then the data that is present in ram will not exist anymore.
+3.HDD is the place where data is stored in computer.
+4.keyboard
+5.output are those device that give output of any input instruction.eg monitor,printer etc
+6.mouse
+7.binary language(0,1).
+8.An input device is any hardware device that sends data to a computer, allowing you to interact with and control it.eg keyboard ,mouse,scanner,
