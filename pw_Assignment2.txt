@@ -1,0 +1,24 @@
+DAY 3 Assignment Answers.
+1-->Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
+
+2-->Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time. As development environments have accelerated, version control systems help software teams work faster and smarter.Version control software keeps track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
+
+3-->github is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration
+
+4-->Bitbucket
+    GitHub
+    Microsoft Azure DevOps
+    Amazon AWS CodeCommit.
+    Beanstalk
+
+5-->there are two types of version cantrol system
+    1.centralized version cantrol system
+    2. distributed version cantrol system
+
+6-->One of the biggest advantages of Git is its branching capabilities. Unlike centralized version control systems, Git branches are cheap and easy to merge. This facilitates the feature branch workflow popular with many Git users. Feature branches provide an isolated environment for every change to your codebase.
+
+It's used for storing, tracking, and collaborating on software projects. It makes it easy for developers to share code files and collaborate with fellow developers on open-source projects. GitHub also serves as a social networking site where developers can openly network, collaborate, and pitch their work.
+
+7-->Repositories in GIT contain a collection of files of various different versions of a Project. These files are imported from the repository into the local server of the user for further updations and modifications in the content of the file.A Git repository is a virtual storage of your project. It allows you to save versions of your code, which you can access when needed. 
+
+8-->To create a new repo, you'll use the git init command. git init is a one-time command you use during the initial setup of a new repo. Executing this command will create a new .git subdirectory in your current working directory. This will also create a new main branch. 
